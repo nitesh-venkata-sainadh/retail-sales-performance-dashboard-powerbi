@@ -9,11 +9,11 @@ This project analyzes retail sales performance from 2015–2018 to identify reve
 ## 🏗 Data Modeling  
 
 The data was structured using a star schema model to improve scalability, clarity, and query performance.
-- 1 Fact table: Fact_Sales
-- 3 Dimension tables: Dim_Date, Dim_Customer, Dim_Product
+- 1 Fact table: facts_Sales
+- 3 Dimension tables: dim_date, dim_customer, dim_product
 - One-to-many relationships
 - Created a separate Date table to support time-based analysis (YTD, monthly trends)
-<img width="1253" height="701" alt="image" src="https://github.com/user-attachments/assets/6282a851-df66-4ad3-a429-5ea3937ee73a" />
+<img width="1306" height="738" alt="image" src="https://github.com/user-attachments/assets/4c4859be-84c2-4700-94c6-e7dff244a75b" />
 
 
 ## 📈 KPIs Created
@@ -21,6 +21,7 @@ The data was structured using a star schema model to improve scalability, clarit
 - Total Sales
 - Sales (YTD)
 - Total Orders
+- Total Customers
 - Average Order Value
 - Average Revenue per Customer
 
