@@ -1,5 +1,7 @@
 # 📊 Retail Sales Performance Dashboard (Power BI)
 
+*Executive-level retail revenue dashboard built using Power BI with star schema modeling and DAX measures.*
+
 ## 📌 Project Overview
 
 This project analyzes retail sales performance from 2015–2018 to identify revenue trends, regional contribution, and top-performing product categories. The goal was to build an executive-level dashboard to support business decision-making.
@@ -27,13 +29,13 @@ These metrics help evaluate both overall performance and customer-level contribu
 
 ## 📊 Dashboard Highlights
 
-I have created five charts they are:
+I have created five visuals they are:
 - Monthly revenue trend analysis
 - Revenue contribution by region
 - Revenue by product category
 - Top 10 products by revenue
 - Interactive filters by Year and Segment
-<img width="1271" height="713" alt="image" src="https://github.com/user-attachments/assets/ddd3fa9f-87c2-4f20-9e70-7f25a22a50d8" />
+<img width="1278" height="719" alt="image" src="https://github.com/user-attachments/assets/f65c7b57-34ce-4cff-9b49-6497343a17f4" />
 
 ## 📌 Key Business Insights
 - West region generates the highest overall revenue contribution
