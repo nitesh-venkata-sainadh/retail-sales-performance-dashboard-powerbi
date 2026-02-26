@@ -8,8 +8,7 @@ This project analyzes retail sales performance from 2015–2018 to identify reve
 
 ## 🏗 Data Modeling  
 
-I structured the data using a star schema model to keep the design scalable and organized.
-
+The data was structured using a star schema model to improve scalability, clarity, and query performance.
 - 1 Fact table: Fact_Sales
 - 3 Dimension tables: Dim_Date, Dim_Customer, Dim_Product
 - One-to-many relationships
@@ -29,7 +28,7 @@ These metrics help evaluate both overall performance and customer-level contribu
 
 ## 📊 Dashboard Highlights
 
-I have created five visuals they are:
+The dashboard includes the following key visuals:
 - Monthly revenue trend analysis
 - Revenue contribution by region
 - Revenue by product category
@@ -41,9 +40,9 @@ I have created five visuals they are:
 - West region generates the highest overall revenue contribution
 - Technology is the top-performing category, contributing the largest portion of total revenue
 - Sales show a noticeable increase toward the end of the year, especially in Q4
-- Top 10 products contribute significant share
+- The top 10 products account for a significant share of total revenue
 
-## 🛠 Tools used
+## 🛠 Tools Used
 - Power BI
 - Power Query
 - DAX
