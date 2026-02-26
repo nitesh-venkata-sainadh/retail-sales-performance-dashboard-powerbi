@@ -35,7 +35,7 @@ The dashboard includes the following key visuals:
 - Revenue by product category
 - Top 10 products by revenue
 - Interactive filters by Year and Segment
-<img width="1278" height="719" alt="image" src="https://github.com/user-attachments/assets/f65c7b57-34ce-4cff-9b49-6497343a17f4" />
+<img width="1274" height="717" alt="image" src="https://github.com/user-attachments/assets/e7afaeec-60a8-4595-bb2d-7844a1542837" />
 
 ## 📌 Key Business Insights
 - West region generates the highest overall revenue contribution
